@@ -6,7 +6,7 @@
 1. Wchodzisz do pokoju – może być pusty, z potworem, albo skarbem.
 2. Walczysz z potworami. Proste: atakujesz, oni atakują.
 3. Zbierasz skarby, mikstury, artefakty.
-
+![zdjecie](image.png)
 #### **Co znajdziesz?**
 - **Pokój**: Każdy jest inny, możesz znaleźć coś fajnego albo trafić na potwora.
 - **Walka**: Potwory. Zabijasz je, albo nie.
