@@ -3,8 +3,8 @@
 **Dungeon Explorer** to  prosta gra przygodowa w **Rust**, gdzie włazisz do lochów, bijesz potwory, zbierasz skarby. Celem jest przeżycie jak najdłużej. Gra jest generowana losowo, więc nie ma nudy.
 
 #### **Co robisz?**
-2. Walczysz z potworami. Proste: atakujesz, oni atakują.
-3. Zbierasz skarby, mikstury, artefakty.
+1. Walczysz z potworami. Proste: atakujesz, oni atakują.
+2. Zbierasz skarby, mikstury, artefakty.
 
 ![zdjecie](image.png)
 
