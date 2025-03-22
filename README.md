@@ -1,6 +1,6 @@
 ### Dungeon Explorer – Gra tekstowa w Rust
 
-**Dungeon Explorer** to jakaś prosta gra przygodowa w **Rust**, gdzie włazisz do lochów, bijesz potwory, zbierasz skarby. Celem jest przeżycie jak najdłużej. Gra jest generowana losowo, więc nie ma nudy.
+**Dungeon Explorer** to  prosta gra przygodowa w **Rust**, gdzie włazisz do lochów, bijesz potwory, zbierasz skarby. Celem jest przeżycie jak najdłużej. Gra jest generowana losowo, więc nie ma nudy.
 
 #### **Co robisz?**
 1. Wchodzisz do pokoju – może być pusty, z potworem, albo skarbem.
