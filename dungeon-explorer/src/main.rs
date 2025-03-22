@@ -4,18 +4,18 @@ use rand::Rng;
 #[derive(Clone)]
 struct Player {
     health: i32,
-    strength: i32,
-    gold: i32,
-    regeneration: i32,
-    max_health: i32,
-    elixirs: i32,
+    strength: u32,
+    gold: u32,
+    regeneration: u32,
+    max_health: u32,
+    elixirs: u32,
     ekwipunek: Vec<String>, 
 }
 
 #[derive(Clone)]
 struct Monster {
     health: i32,
-    strength: i32,
+    strength: u32,
     name: String,
 }
 
