@@ -3,16 +3,15 @@
 **Dungeon Explorer** to  prosta gra przygodowa w **Rust**, gdzie włazisz do lochów, bijesz potwory, zbierasz skarby. Celem jest przeżycie jak najdłużej. Gra jest generowana losowo, więc nie ma nudy.
 
 #### **Co robisz?**
-1. Wchodzisz do pokoju – może być pusty, z potworem, albo skarbem.
-2. Walczysz z potworami. Proste: atakujesz, oni atakują.
-3. Zbierasz skarby, mikstury, artefakty.
+1. Walczysz z potworami. Proste: atakujesz, oni atakują.
+2. Zbierasz skarby, mikstury, artefakty.
 
 ![zdjecie](image.png)
 
 
 #### **Co znajdziesz?**
-- **Pokój**: Każdy jest inny, możesz znaleźć coś fajnego albo trafić na potwora.
 - **Walka**: Potwory. Zabijasz je, albo nie.
+- **Itemy**: Ciekawe itemy z unikalnymi opisami, mozliwe dodanie backstory dla itemow w przyszlosci
 
 #### **Struktura projektu**
 - **`main.rs`** – główny plik, logika gry.
